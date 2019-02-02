@@ -10,11 +10,11 @@ An example of SAP blockchain project
 Follow the below blog to enable blockchain service
 https://blogs.sap.com/2018/08/03/step-by-step-process-to-create-your-first-blockchain-project-hello-world/
 
-## Call API
+## Call Restful API
 ### Call Your Chaincode API
 * Request the access token from https://{YourID}.authentication.eu10.hana.ondemand.com/oauth/token.
 * Access your restful api exposed by chaincode.
-### Call the test server
+### Call the test server API
 * Please download BlockChain.postman_collection.json and import into postman.
 
 ## License
